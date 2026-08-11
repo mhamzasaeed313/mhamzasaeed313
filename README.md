@@ -1,77 +1,81 @@
-Hi, I'm Hamza Saeed 👋
+# Hi, I'm Hamza Saeed 👋
 
-💻 BS Computer Science Student | MERN Stack Developer | AI/ML Explorer
+💻 **BS Computer Science Student | MERN Stack Developer | AI/ML Explorer**
 
 I'm a Computer Science student passionate about building modern web & mobile applications and exploring Artificial Intelligence.
 
-- 🔭 Currently working on MERN Stack & React Native
-- 🌱 Exploring AI/ML, Generative AI & Agentic AI
-- 💡 Interested in Software Development & AI-powered solutions
+- 🔭 Currently working on **MERN Stack & React Native**
+- 🌱 Exploring **AI/ML, Generative AI & Agentic AI**
+- 💡 Interested in **Software Development & AI-powered solutions**
 - 🚀 Always learning, building, and improving
-- 📚 Preparing for MS & Research in Computer Science
+- 📚 Preparing for **MS & Research in Computer Science**
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-Languages
+## 💻 Languages
 
-"JavaScript" "Python" "C++" "Mongo DB" "SQL"
+`JavaScript` `Python` `C++` `SQL`
 
-Frontend
+## 🎨 Frontend
 
-"React.js" "React Native" "HTML" "CSS" "Tailwind CSS" "Bootstrap" "Vite"
+`React.js` `React Native` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Vite`
 
-Backend
+## ⚙️ Backend
 
-"Node.js" "Express.js" "REST APIs" "JWT" "Axios"
+`Node.js` `Express.js` `REST APIs` `JWT` `Axios`
 
-Database
+## 🗄️ Database
 
-"MongoDB" "Mongoose" "MySQL"
+`MongoDB` `Mongoose` `MySQL`
 
-AI / Machine Learning
+## 🤖 AI / Machine Learning
 
-"Python" "Scikit-Learn" "KNN" "SVM" "Naive Bayes" "Decision Tree" "Linear Regression"
+`Python` `Scikit-Learn` `KNN` `SVM` `Naive Bayes` `Decision Tree` `Linear Regression`
 
-Tools
+## 🧰 Tools
 
-"Git" "GitHub" "VS Code" "Postman" "Vercel" "Railway"
-
----
-
-🚀 Featured Projects
-
-🔹 AI-Powered Learning Management System
-AI Tutor, Quiz Generator & Smart Notes.
-
-🔹 MERN Blogging Platform
-Full-stack blogging platform with authentication, CRUD operations and image uploads.
-
-🔹 Kanban Task Management System
-Trello/Asana-inspired task management application with drag & drop functionality.
-
-🔹 React Native Applications
-Building cross-platform mobile applications using React Native.
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Railway`
 
 ---
 
-📊 GitHub Stats
+# 🚀 Featured Projects
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=mhamzasaeed313&show_icons=true&theme=tokyonight)
+### 🔹 AI-Powered Learning Management System
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzasaeed313&layout=compact&theme=tokyonight)
+AI-powered LMS featuring **AI Tutor, Quiz Generator & Smart Notes**.
+
+### 🔹 MERN Blogging Platform
+
+Full-stack blogging platform with **authentication, CRUD operations and image uploads**.
+
+### 🔹 Kanban Task Management System
+
+Trello/Asana-inspired task management application with **drag & drop task management**.
+
+### 🔹 React Native Applications
+
+Building cross-platform mobile applications using **React Native**.
 
 ---
 
-🤝 Connect With Me
+# 📊 GitHub Stats
 
-🌐 Portfolio: https://mhamzasaeed.vercel.app/
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzasaeed313&show_icons=true&theme=tokyonight)
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-hamza-saeed-55948a344
-
-📧 Email: m.hamzasaeed313@gamil.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzasaeed313&layout=compact&theme=tokyonight)
 
 ---
 
-💡 "Learn. Build. Fail. Improve. Repeat." 🚀
+# 🤝 Connect With Me
+
+🌐 **Portfolio:** [mhamzasaeed.vercel.app](https://mhamzasaeed.vercel.app/)
+
+💼 **LinkedIn:** [Muhammad Hamza Saeed](https://www.linkedin.com/in/muhammad-hamza-saeed-55948a344)
+
+📧 **Email:** m.hamzasaeed313@gmail.com
+
+---
+
+> 💡 **"Learn. Build. Fail. Improve. Repeat."** 🚀
