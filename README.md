@@ -60,12 +60,11 @@ Building cross-platform mobile applications using **React Native**.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzasaeed313&show_icons=true&theme=tokyonight)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamzasaeed313&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzasaeed313&layout=compact&theme=tokyonight)
-
 ---
 
 # 🤝 Connect With Me
